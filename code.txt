@@ -1,0 +1,3 @@
+print Alpha!
+print I like!
+print Hello World!
